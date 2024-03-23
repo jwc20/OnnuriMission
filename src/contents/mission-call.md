@@ -1,7 +1,4 @@
-
-
 <!-- ![Banner Image](../../public/banner.png) -->
-
 
 # 온누리 전도콜센터 안내
 
@@ -13,7 +10,8 @@
 
 ## 전도의 의미
 
-**전도는** 잃어버린 영혼을 찾아 주님을 만나도록 돕는 사역입니다. 
+**전도는** 잃어버린 영혼을 찾아 주님을 만나도록 돕는 사역입니다.
+
 **전도는** 잃어버린 한 영혼을 찾으시는 하나님께서 가장 기뻐하시고, 그리스도인들이 예수님의 지상명령을 지키는 일입니다.
 
 ## 전도콜센터 소개
@@ -36,6 +34,12 @@
 2. **전도요청서 제출:** 교회 로비에 비치된 전도요청서를 기재하고 제출함으로 요청할 수 있습니다.
 3. **QR코드를 통한 온라인 요청:** 다음의 QR코드를 통하여 연결된 전도요청서를 온라인으로 기재하고 제출함으로 요청할 수 있습니다.
 4. **전도요청서 작성 링크** 다음의 온라인 링크를 통하여 연결된 전도요청서를 온라인으로 기재하고 제출함으로 요청할 수 있습니다.
-   - [전도콜센터 전도요청서 링크](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACaDp5JUQzU1MlVSSkJTQjhJSU9NTldVTkdNMVNPUy4u&origin=QRCode)
+    - [전도콜센터 전도요청서 링크](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACaDp5JUQzU1MlVSSkJTQjhJSU9NTldVTkdNMVNPUy4u&origin=QRCode)
+
+&nbsp;
+
+---
+
+&nbsp;
 
 ![QR code](../../public/qr_code.png)
