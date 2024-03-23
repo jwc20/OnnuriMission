@@ -2,5 +2,5 @@ import { defineConfig } from 'astro/config'
 
 export default defineConfig({
   site: 'https://jwc20.github.io',
-  base: 'onnuri-mission'
+  base: 'OnnuriMission'
 })
