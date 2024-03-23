@@ -34,16 +34,21 @@ const { title } = Astro.props;
 
     body {
         margin: auto;
-        /* padding: 3rem; */
+        padding: 3rem 1rem;
         font-size: 18px;
     }
 
     img {
         max-width: 100%;
         height: auto;
-        /* center */
         display: block;
         margin: 0 auto;
+    }
+
+    @media (max-width: 600px) {
+        body {
+            font-size: 12px;
+        }
     }
 
     .footer {
