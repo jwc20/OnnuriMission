@@ -1,6 +1,6 @@
 
 
-![Banner Image](../../public/banner.png)
+<!-- ![Banner Image](../../public/banner.png) -->
 
 
 # 온누리 전도콜센터 안내
