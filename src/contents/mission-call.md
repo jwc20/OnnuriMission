@@ -42,4 +42,4 @@
 
 &nbsp;
 
-![QR code](../../public/qr_code.png)
+[![QR code](../../public/qr_code.png)](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACaDp5JUQzU1MlVSSkJTQjhJSU9NTldVTkdNMVNPUy4u&origin=QRCode)
