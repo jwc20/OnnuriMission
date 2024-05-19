@@ -1,5 +1,5 @@
 ---
-import banner from "../../../public/banner.png"
+import banner from "../../../public/banner_reduced.jpeg"
 
 const redirectUrl = 'https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__XuZStxUMko5NFhDWDc3TkJJV1VZOFMxNVpVOFVENy4u';
 const res = await fetch(redirectUrl);
@@ -16,13 +16,13 @@ const res = await fetch(redirectUrl);
     <meta property="og:title" content="전도콜센터 전도요청서" />
     <meta property="og:description" content="온누리 전도콜센터" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="../../public/banner.png" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta http-equiv="refresh" content="0;url=https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__XuZStxUMko5NFhDWDc3TkJJV1VZOFMxNVpVOFVENy4u" />
+    <meta property="og:image" content="../../public/banner_reduced.jpeg" />
+    <meta property="og:image:width" content="100" />
+    <meta property="og:image:height" content="100" />
+    <!-- <meta http-equiv="refresh" content="0;url=https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__XuZStxUMko5NFhDWDc3TkJJV1VZOFMxNVpVOFVENy4u" /> -->
   </head>
   <body>
-    <img src={banner.src} alt="온누리전도학교" style="width: 100%; margin-bottom: 2rem;" />
+    <img src={banner.src} alt="온누리전도학교" style="width: 50%; margin-bottom: 2rem;" />
     <h1>전도콜센터 전도요청서</h1>
     <p>If you are not redirected automatically, follow this <a href={redirectUrl}>link to the form</a>.</p>
   </body>
