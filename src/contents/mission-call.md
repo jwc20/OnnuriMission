@@ -34,7 +34,7 @@
 2. **전도요청서 제출:** 교회 로비에 비치된 전도요청서를 기재하고 제출함으로 요청할 수 있습니다.
 3. **QR코드를 통한 온라인 요청:** 다음의 QR코드를 통하여 연결된 전도요청서를 온라인으로 기재하고 제출함으로 요청할 수 있습니다.
 4. **전도요청서 작성 링크** 다음의 온라인 링크를 통하여 연결된 전도요청서를 온라인으로 기재하고 제출함으로 요청할 수 있습니다.
-    - [전도콜센터 전도요청서 링크](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACaDp5JUQzU1MlVSSkJTQjhJSU9NTldVTkdNMVNPUy4u&origin=QRCode)
+    - [전도콜센터 전도요청서 링크](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__XuZStxUMko5NFhDWDc3TkJJV1VZOFMxNVpVOFVENy4u)
 
 &nbsp;
 
