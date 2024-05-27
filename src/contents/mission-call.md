@@ -32,5 +32,5 @@
 &nbsp;
 
 
-<img src="../../public/qr_code.png" alt="drawing" width="500" style="width: 500px; border-radius: 15px; box-shadow: 4px 4px 10px rgba(0,0,0,0.2);" />
+<img src="/OnnuriMission/qr_code.png" alt="drawing" width="500" style="width: 500px; border-radius: 15px; box-shadow: 4px 4px 10px rgba(0,0,0,0.2);" />
 
