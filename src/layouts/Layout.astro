@@ -1,6 +1,7 @@
 ---
 import Footer from "../components/Footer.astro";
-import banner from "../../public/banner.png"
+import banner from "../../public/sky3.jpg"
+import logo from "../../public/onnuri_new-logo_V5.png"
 
 interface Props {
     title: string;
@@ -13,14 +14,14 @@ const { title } = Astro.props;
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <meta charset="UTF-8">
+        <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding:400" rel="stylesheet">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>온누리교회</title>
         <link rel="icon" type="image/png" href="/OnnuriMission/onnuri_new-logo_V5.png" />
         <meta property="og:title" content="온누리교회" />
         <meta property="og:description" content="전도콜센터" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://0x0.st/XZrD.webp" />
+        <meta property="og:image" content="/public/XZrD.webp" />
         <meta property="og:image:type" content="image/webp" />
         <meta property="og:image:width" content="200" />
         <meta property="og:image:height" content="100" />
@@ -29,9 +30,14 @@ const { title } = Astro.props;
         <title>{title}</title>
     </head>
     <body>
-        <img src={banner.src} alt="온누리전도학교" style="width: 100%; margin-bottom: 2rem;" />
+        <div style="position: relative; width: 100%; margin-bottom: 2rem;">
+            <img src={banner.src} alt="온누리전도학교" style="width: 100%;" />
+            <img src={logo.src} alt="온누리로고" style="position: absolute; top: 44.5%; right: 10%; width: 5%; height: auto;" />
+            <figcaption style="font-weight: bold; font-family: 'Nanum Gothic Coding'; position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); font-size: 4vw; text-align: center;">전도콜센터</figcaption>
+        </div>
 
         <slot />
+        
         <div class="footer"><Footer /></div>
     </body>
 </html>
